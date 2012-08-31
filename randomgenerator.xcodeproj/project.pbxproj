@@ -16,8 +16,7 @@
 		25C6E3E815F10DF500C73C81 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 25C6E3E715F10DF500C73C81 /* AppDelegate.m */; };
 		25C6E3EB15F10DF500C73C81 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25C6E3E915F10DF500C73C81 /* MainStoryboard.storyboard */; };
 		25C6E3EE15F10DF500C73C81 /* randomgenerator.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 25C6E3EC15F10DF500C73C81 /* randomgenerator.xcdatamodeld */; };
-		25C6E3F115F10DF500C73C81 /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 25C6E3F015F10DF500C73C81 /* MasterViewController.m */; };
-		25C6E3F415F10DF500C73C81 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 25C6E3F315F10DF500C73C81 /* DetailViewController.m */; };
+		25C6E3FB15F112AA00C73C81 /* dice.png in Resources */ = {isa = PBXBuildFile; fileRef = 25C6E3FA15F112AA00C73C81 /* dice.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,10 +33,7 @@
 		25C6E3E715F10DF500C73C81 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		25C6E3EA15F10DF500C73C81 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		25C6E3ED15F10DF500C73C81 /* randomgenerator.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = randomgenerator.xcdatamodel; sourceTree = "<group>"; };
-		25C6E3EF15F10DF500C73C81 /* MasterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MasterViewController.h; sourceTree = "<group>"; };
-		25C6E3F015F10DF500C73C81 /* MasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
-		25C6E3F215F10DF500C73C81 /* DetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
-		25C6E3F315F10DF500C73C81 /* DetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		25C6E3FA15F112AA00C73C81 /* dice.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dice.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,10 +85,6 @@
 				25C6E3E615F10DF500C73C81 /* AppDelegate.h */,
 				25C6E3E715F10DF500C73C81 /* AppDelegate.m */,
 				25C6E3E915F10DF500C73C81 /* MainStoryboard.storyboard */,
-				25C6E3EF15F10DF500C73C81 /* MasterViewController.h */,
-				25C6E3F015F10DF500C73C81 /* MasterViewController.m */,
-				25C6E3F215F10DF500C73C81 /* DetailViewController.h */,
-				25C6E3F315F10DF500C73C81 /* DetailViewController.m */,
 				25C6E3EC15F10DF500C73C81 /* randomgenerator.xcdatamodeld */,
 				25C6E3DE15F10DF500C73C81 /* Supporting Files */,
 			);
@@ -102,6 +94,7 @@
 		25C6E3DE15F10DF500C73C81 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				25C6E3FA15F112AA00C73C81 /* dice.png */,
 				25C6E3DF15F10DF500C73C81 /* randomgenerator-Info.plist */,
 				25C6E3E015F10DF500C73C81 /* InfoPlist.strings */,
 				25C6E3E315F10DF500C73C81 /* main.m */,
@@ -163,6 +156,7 @@
 			files = (
 				25C6E3E215F10DF500C73C81 /* InfoPlist.strings in Resources */,
 				25C6E3EB15F10DF500C73C81 /* MainStoryboard.storyboard in Resources */,
+				25C6E3FB15F112AA00C73C81 /* dice.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,8 +170,6 @@
 				25C6E3E415F10DF500C73C81 /* main.m in Sources */,
 				25C6E3E815F10DF500C73C81 /* AppDelegate.m in Sources */,
 				25C6E3EE15F10DF500C73C81 /* randomgenerator.xcdatamodeld in Sources */,
-				25C6E3F115F10DF500C73C81 /* MasterViewController.m in Sources */,
-				25C6E3F415F10DF500C73C81 /* DetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
