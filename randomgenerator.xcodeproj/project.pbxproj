@@ -7,6 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		259D224415F1B1D400CCDF9F /* dice6.png in Resources */ = {isa = PBXBuildFile; fileRef = 259D223E15F1B1D400CCDF9F /* dice6.png */; };
+		259D224515F1B1D400CCDF9F /* dice5.png in Resources */ = {isa = PBXBuildFile; fileRef = 259D223F15F1B1D400CCDF9F /* dice5.png */; };
+		259D224615F1B1D400CCDF9F /* dice3.png in Resources */ = {isa = PBXBuildFile; fileRef = 259D224015F1B1D400CCDF9F /* dice3.png */; };
+		259D224715F1B1D400CCDF9F /* dice2.png in Resources */ = {isa = PBXBuildFile; fileRef = 259D224115F1B1D400CCDF9F /* dice2.png */; };
+		259D224815F1B1D400CCDF9F /* dice4.png in Resources */ = {isa = PBXBuildFile; fileRef = 259D224215F1B1D400CCDF9F /* dice4.png */; };
+		259D224915F1B1D400CCDF9F /* dice1.png in Resources */ = {isa = PBXBuildFile; fileRef = 259D224315F1B1D400CCDF9F /* dice1.png */; };
+		259D224E15F1B30C00CCDF9F /* Paper.png in Resources */ = {isa = PBXBuildFile; fileRef = 259D224B15F1B30C00CCDF9F /* Paper.png */; };
+		259D224F15F1B30C00CCDF9F /* Stone.png in Resources */ = {isa = PBXBuildFile; fileRef = 259D224C15F1B30C00CCDF9F /* Stone.png */; };
+		259D225015F1B30C00CCDF9F /* Scissors.png in Resources */ = {isa = PBXBuildFile; fileRef = 259D224D15F1B30C00CCDF9F /* Scissors.png */; };
+		259D225315F1B5DD00CCDF9F /* ConfirmViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 259D225215F1B5DD00CCDF9F /* ConfirmViewController.m */; };
+		259D225615F1BAB800CCDF9F /* SelectViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 259D225515F1BAB800CCDF9F /* SelectViewController.m */; };
+		259D225915F1BBF600CCDF9F /* GeneratorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 259D225815F1BBF600CCDF9F /* GeneratorViewController.m */; };
+		259D225C15F1D0F500CCDF9F /* RollViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 259D225B15F1D0F500CCDF9F /* RollViewController.m */; };
+		259D226215F1F05800CCDF9F /* Sample.m in Sources */ = {isa = PBXBuildFile; fileRef = 259D226115F1F05800CCDF9F /* Sample.m */; };
+		259D226515F1F63700CCDF9F /* GameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 259D226415F1F63700CCDF9F /* GameViewController.m */; };
+		259D226B15F1FBD700CCDF9F /* OptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 259D226A15F1FBD700CCDF9F /* OptionViewController.m */; };
+		259D226E15F1FEB600CCDF9F /* StatisticsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 259D226D15F1FEB600CCDF9F /* StatisticsViewController.m */; };
 		25C6E3D615F10DF500C73C81 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25C6E3D515F10DF500C73C81 /* UIKit.framework */; };
 		25C6E3D815F10DF500C73C81 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25C6E3D715F10DF500C73C81 /* Foundation.framework */; };
 		25C6E3DA15F10DF500C73C81 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25C6E3D915F10DF500C73C81 /* CoreGraphics.framework */; };
@@ -20,6 +37,31 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		259D223E15F1B1D400CCDF9F /* dice6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dice6.png; sourceTree = "<group>"; };
+		259D223F15F1B1D400CCDF9F /* dice5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dice5.png; sourceTree = "<group>"; };
+		259D224015F1B1D400CCDF9F /* dice3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dice3.png; sourceTree = "<group>"; };
+		259D224115F1B1D400CCDF9F /* dice2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dice2.png; sourceTree = "<group>"; };
+		259D224215F1B1D400CCDF9F /* dice4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dice4.png; sourceTree = "<group>"; };
+		259D224315F1B1D400CCDF9F /* dice1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dice1.png; sourceTree = "<group>"; };
+		259D224B15F1B30C00CCDF9F /* Paper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Paper.png; sourceTree = "<group>"; };
+		259D224C15F1B30C00CCDF9F /* Stone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Stone.png; sourceTree = "<group>"; };
+		259D224D15F1B30C00CCDF9F /* Scissors.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Scissors.png; sourceTree = "<group>"; };
+		259D225115F1B5DD00CCDF9F /* ConfirmViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ConfirmViewController.h; sourceTree = "<group>"; };
+		259D225215F1B5DD00CCDF9F /* ConfirmViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ConfirmViewController.m; sourceTree = "<group>"; };
+		259D225415F1BAB800CCDF9F /* SelectViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectViewController.h; sourceTree = "<group>"; };
+		259D225515F1BAB800CCDF9F /* SelectViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectViewController.m; sourceTree = "<group>"; };
+		259D225715F1BBF600CCDF9F /* GeneratorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeneratorViewController.h; sourceTree = "<group>"; };
+		259D225815F1BBF600CCDF9F /* GeneratorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeneratorViewController.m; sourceTree = "<group>"; };
+		259D225A15F1D0F500CCDF9F /* RollViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RollViewController.h; sourceTree = "<group>"; };
+		259D225B15F1D0F500CCDF9F /* RollViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RollViewController.m; sourceTree = "<group>"; };
+		259D226015F1F05800CCDF9F /* Sample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Sample.h; sourceTree = "<group>"; };
+		259D226115F1F05800CCDF9F /* Sample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Sample.m; sourceTree = "<group>"; };
+		259D226315F1F63700CCDF9F /* GameViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameViewController.h; sourceTree = "<group>"; };
+		259D226415F1F63700CCDF9F /* GameViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameViewController.m; sourceTree = "<group>"; };
+		259D226915F1FBD700CCDF9F /* OptionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OptionViewController.h; sourceTree = "<group>"; };
+		259D226A15F1FBD700CCDF9F /* OptionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OptionViewController.m; sourceTree = "<group>"; };
+		259D226C15F1FEB600CCDF9F /* StatisticsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StatisticsViewController.h; sourceTree = "<group>"; };
+		259D226D15F1FEB600CCDF9F /* StatisticsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StatisticsViewController.m; sourceTree = "<group>"; };
 		25C6E3D115F10DF500C73C81 /* randomgenerator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = randomgenerator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		25C6E3D515F10DF500C73C81 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		25C6E3D715F10DF500C73C81 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -84,7 +126,23 @@
 			children = (
 				25C6E3E615F10DF500C73C81 /* AppDelegate.h */,
 				25C6E3E715F10DF500C73C81 /* AppDelegate.m */,
+				259D225115F1B5DD00CCDF9F /* ConfirmViewController.h */,
+				259D225215F1B5DD00CCDF9F /* ConfirmViewController.m */,
+				259D225715F1BBF600CCDF9F /* GeneratorViewController.h */,
+				259D225815F1BBF600CCDF9F /* GeneratorViewController.m */,
+				259D225415F1BAB800CCDF9F /* SelectViewController.h */,
+				259D225515F1BAB800CCDF9F /* SelectViewController.m */,
+				259D225A15F1D0F500CCDF9F /* RollViewController.h */,
+				259D225B15F1D0F500CCDF9F /* RollViewController.m */,
+				259D226315F1F63700CCDF9F /* GameViewController.h */,
+				259D226415F1F63700CCDF9F /* GameViewController.m */,
+				259D226915F1FBD700CCDF9F /* OptionViewController.h */,
+				259D226A15F1FBD700CCDF9F /* OptionViewController.m */,
+				259D226C15F1FEB600CCDF9F /* StatisticsViewController.h */,
+				259D226D15F1FEB600CCDF9F /* StatisticsViewController.m */,
 				25C6E3E915F10DF500C73C81 /* MainStoryboard.storyboard */,
+				259D226015F1F05800CCDF9F /* Sample.h */,
+				259D226115F1F05800CCDF9F /* Sample.m */,
 				25C6E3EC15F10DF500C73C81 /* randomgenerator.xcdatamodeld */,
 				25C6E3DE15F10DF500C73C81 /* Supporting Files */,
 			);
@@ -94,6 +152,15 @@
 		25C6E3DE15F10DF500C73C81 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				259D224B15F1B30C00CCDF9F /* Paper.png */,
+				259D224C15F1B30C00CCDF9F /* Stone.png */,
+				259D224D15F1B30C00CCDF9F /* Scissors.png */,
+				259D223E15F1B1D400CCDF9F /* dice6.png */,
+				259D223F15F1B1D400CCDF9F /* dice5.png */,
+				259D224015F1B1D400CCDF9F /* dice3.png */,
+				259D224115F1B1D400CCDF9F /* dice2.png */,
+				259D224215F1B1D400CCDF9F /* dice4.png */,
+				259D224315F1B1D400CCDF9F /* dice1.png */,
 				25C6E3FA15F112AA00C73C81 /* dice.png */,
 				25C6E3DF15F10DF500C73C81 /* randomgenerator-Info.plist */,
 				25C6E3E015F10DF500C73C81 /* InfoPlist.strings */,
@@ -157,6 +224,15 @@
 				25C6E3E215F10DF500C73C81 /* InfoPlist.strings in Resources */,
 				25C6E3EB15F10DF500C73C81 /* MainStoryboard.storyboard in Resources */,
 				25C6E3FB15F112AA00C73C81 /* dice.png in Resources */,
+				259D224415F1B1D400CCDF9F /* dice6.png in Resources */,
+				259D224515F1B1D400CCDF9F /* dice5.png in Resources */,
+				259D224615F1B1D400CCDF9F /* dice3.png in Resources */,
+				259D224715F1B1D400CCDF9F /* dice2.png in Resources */,
+				259D224815F1B1D400CCDF9F /* dice4.png in Resources */,
+				259D224915F1B1D400CCDF9F /* dice1.png in Resources */,
+				259D224E15F1B30C00CCDF9F /* Paper.png in Resources */,
+				259D224F15F1B30C00CCDF9F /* Stone.png in Resources */,
+				259D225015F1B30C00CCDF9F /* Scissors.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -170,6 +246,14 @@
 				25C6E3E415F10DF500C73C81 /* main.m in Sources */,
 				25C6E3E815F10DF500C73C81 /* AppDelegate.m in Sources */,
 				25C6E3EE15F10DF500C73C81 /* randomgenerator.xcdatamodeld in Sources */,
+				259D225315F1B5DD00CCDF9F /* ConfirmViewController.m in Sources */,
+				259D225615F1BAB800CCDF9F /* SelectViewController.m in Sources */,
+				259D225915F1BBF600CCDF9F /* GeneratorViewController.m in Sources */,
+				259D225C15F1D0F500CCDF9F /* RollViewController.m in Sources */,
+				259D226215F1F05800CCDF9F /* Sample.m in Sources */,
+				259D226515F1F63700CCDF9F /* GameViewController.m in Sources */,
+				259D226B15F1FBD700CCDF9F /* OptionViewController.m in Sources */,
+				259D226E15F1FEB600CCDF9F /* StatisticsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,6 +369,7 @@
 				25C6E3F915F10DF500C73C81 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
