@@ -83,7 +83,7 @@
     NSTimeInterval timeInterval = [[NSDate date] timeIntervalSinceDate:start_time];
     if (timeInterval > 3.0) {
         [self.timer invalidate];
-        self.resultLabel.alpha = 1;
+        //self.resultLabel.alpha = 1;
         self.continueButton.alpha = 1;
         if ([self.category isEqualToString:kDice1]) {
             self.v = [NSNumber numberWithInt: self.v2.intValue];

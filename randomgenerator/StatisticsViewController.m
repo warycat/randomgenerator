@@ -136,19 +136,19 @@ enum kCategory {
     switch (indexPath.section) {
         case kCategoryDice1:
             cell.textLabel.text = [NSString stringWithFormat:@"%d",indexPath.row+1];
-            cell.detailTextLabel.text = [NSString stringWithFormat:@"%d",d1[indexPath.row]];
+            cell.detailTextLabel.text = [NSString stringWithFormat:@"%d times",d1[indexPath.row]];
             break;
         case kCategoryDice2:
             cell.textLabel.text = [NSString stringWithFormat:@"%d",indexPath.row+2];
-            cell.detailTextLabel.text = [NSString stringWithFormat:@"%d",d2[indexPath.row]];
+            cell.detailTextLabel.text = [NSString stringWithFormat:@"%d times",d2[indexPath.row]];
             break;
         case kCategoryDice3:
             cell.textLabel.text = [NSString stringWithFormat:@"%d",indexPath.row+3];
-            cell.detailTextLabel.text = [NSString stringWithFormat:@"%d",d3[indexPath.row]];
+            cell.detailTextLabel.text = [NSString stringWithFormat:@"%d times",d3[indexPath.row]];
             break;
         case kCategoryRPS:
             cell.textLabel.text = [NSString stringWithFormat:@"%@",[@[@"Stone",@"Paper",@"Scissors"] objectAtIndex: indexPath.row]];
-            cell.detailTextLabel.text = [NSString stringWithFormat:@"%d",d4[indexPath.row]];
+            cell.detailTextLabel.text = [NSString stringWithFormat:@"%d times",d4[indexPath.row]];
             break;
         default:
             break;

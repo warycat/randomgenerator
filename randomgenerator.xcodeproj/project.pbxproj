@@ -24,6 +24,7 @@
 		259D226515F1F63700CCDF9F /* GameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 259D226415F1F63700CCDF9F /* GameViewController.m */; };
 		259D226B15F1FBD700CCDF9F /* OptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 259D226A15F1FBD700CCDF9F /* OptionViewController.m */; };
 		259D226E15F1FEB600CCDF9F /* StatisticsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 259D226D15F1FEB600CCDF9F /* StatisticsViewController.m */; };
+		259D227015F4401000CCDF9F /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 259D226F15F4401000CCDF9F /* readme.md */; };
 		25C6E3D615F10DF500C73C81 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25C6E3D515F10DF500C73C81 /* UIKit.framework */; };
 		25C6E3D815F10DF500C73C81 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25C6E3D715F10DF500C73C81 /* Foundation.framework */; };
 		25C6E3DA15F10DF500C73C81 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25C6E3D915F10DF500C73C81 /* CoreGraphics.framework */; };
@@ -62,6 +63,7 @@
 		259D226A15F1FBD700CCDF9F /* OptionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OptionViewController.m; sourceTree = "<group>"; };
 		259D226C15F1FEB600CCDF9F /* StatisticsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StatisticsViewController.h; sourceTree = "<group>"; };
 		259D226D15F1FEB600CCDF9F /* StatisticsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StatisticsViewController.m; sourceTree = "<group>"; };
+		259D226F15F4401000CCDF9F /* readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = readme.md; sourceTree = "<group>"; };
 		25C6E3D115F10DF500C73C81 /* randomgenerator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = randomgenerator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		25C6E3D515F10DF500C73C81 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		25C6E3D715F10DF500C73C81 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -96,6 +98,7 @@
 		25C6E3C615F10DF500C73C81 = {
 			isa = PBXGroup;
 			children = (
+				259D226F15F4401000CCDF9F /* readme.md */,
 				25C6E3DD15F10DF500C73C81 /* randomgenerator */,
 				25C6E3D415F10DF500C73C81 /* Frameworks */,
 				25C6E3D215F10DF500C73C81 /* Products */,
@@ -233,6 +236,7 @@
 				259D224E15F1B30C00CCDF9F /* Paper.png in Resources */,
 				259D224F15F1B30C00CCDF9F /* Stone.png in Resources */,
 				259D225015F1B30C00CCDF9F /* Scissors.png in Resources */,
+				259D227015F4401000CCDF9F /* readme.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

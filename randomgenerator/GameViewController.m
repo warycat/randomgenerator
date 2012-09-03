@@ -63,7 +63,7 @@
     NSTimeInterval timeInterval = [[NSDate date] timeIntervalSinceDate:start_time];
     if (timeInterval > 3.0) {
         [self.timer invalidate];
-        self.resultLabel.alpha = 1;
+        //self.resultLabel.alpha = 1;
         self.continueButton.alpha = 1;
         AppDelegate *appDelegate = [UIApplication sharedApplication].delegate;
         NSManagedObjectContext *context = appDelegate.managedObjectContext;
