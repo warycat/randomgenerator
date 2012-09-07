@@ -20,4 +20,4 @@ The product must keep track of all statistics from previous runs in each categor
 6:	19 times
 
 # Screen shots #
-![Alt text](randomgenerator/blob/master/ScreenShot1.png )
+![Alt text](randomgenerator/blob/master/ScreenShot1.png?raw=true )
