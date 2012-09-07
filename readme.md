@@ -21,7 +21,12 @@ The product must keep track of all statistics from previous runs in each categor
 
 # Screen shots #
 ![Alt ScreenShot1](randomgenerator/blob/master/ScreenShot1.png?raw=true "1")
+<br/>
 ![Alt ScreenShot2](randomgenerator/blob/master/ScreenShot2.png?raw=true "2")
+<br/>
 ![Alt ScreenShot3](randomgenerator/blob/master/ScreenShot3.png?raw=true "3")
+<br/>
 ![Alt ScreenShot4](randomgenerator/blob/master/ScreenShot4.png?raw=true "4")
+<br/>
 ![Alt ScreenShot5](randomgenerator/blob/master/ScreenShot5.png?raw=true "5")
+<br/>
