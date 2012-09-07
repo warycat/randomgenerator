@@ -12,6 +12,40 @@ The product must keep track of all statistics from previous runs in each categor
 6: 19 times
 </pre>
 
+# App Information #
+
+### Identifiers ###
+
+1. SKU randomgeneratorgroup9
+2. Bundle IDcom.warycat.randomgenerator
+3. Apple ID 560418704
+4. Type iOS App
+6. Default Language English
+
+### Links ###
+[View in App Store](http://itunes.apple.com/us/app/rand*/id560418704?ls=1&mt=8)
+
+# Version Information #
+### Details
+1. Version 1.0
+2. Status  Waiting For Upload
+3. Primary Category Education
+4. Secondary Category (Optional)
+5. Copyright Group9
+6. Review Notes (Optional)
+7. Rating 4+
+
+
+# Metadata #
+### English (Default Language)
+1. App Name Rand*
+2. Keywords random,generator
+3. Support Email Address larry.fantasy@gmail.com
+4. Support URL http://github.com/warycat/randomgenerator 
+5. Marketing URL (Optional) 
+6. Privacy Policy URL (Optional)
+
+
 # App Icon #
 ![Alt AppIcon](randomgenerator/blob/master/AppIcon.jpg?raw=true "App Icon")
 
