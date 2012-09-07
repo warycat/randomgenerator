@@ -13,7 +13,7 @@ The product must keep track of all statistics from previous runs in each categor
 </pre>
 
 # App Icon #
-![Alt AppIcon](randomgenerator/blob/master/AppIcon.jpg "App Icon")
+![Alt AppIcon](randomgenerator/blob/master/AppIcon.jpg?raw=true "App Icon")
 
 # Screen shots #
 1. ![Alt ScreenShot1](randomgenerator/blob/master/ScreenShot1.png?raw=true "1")
