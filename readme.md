@@ -18,3 +18,6 @@ The product must keep track of all statistics from previous runs in each categor
 4: 	18 times
 5: 	22 times
 6:	19 times
+
+# Screen shots #
+![Alt text]("./iOS Simulator Screen shot Sep 7, 2012 1.10.32 AM.png")
